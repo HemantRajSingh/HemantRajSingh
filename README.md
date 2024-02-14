@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Raj Singh</h1>
 <h3 align="center">Machine Learning | Data Science | Software Engineer ( iOS | Android | Web )</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="hemantrajsingh" /> </p>
-
 - 🔭 I’m currently working on [MovieMatch](https://github.com/HemantRajSingh/MovieMatch)
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
@@ -26,4 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantrajsingh&show_icons=true&locale=en&layout=compact" alt="hemantrajsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantrajsingh&" alt="hemantrajsingh" /></p>
-
