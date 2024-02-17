@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HemantRajSingh](https://github.com/HemantRajSingh)
+- 👨‍💻 Most of my projects are available at [Github](https://github.com/HemantRajSingh)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **iOS Development, Android Development, Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **rajhemant84@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MUuPqRZTtpUHvTAxBo5v9kVtyAsOZFoe/edit?usp=sharing&ouid=102076996564445191113&rtpof=true&sd=true](https://docs.google.com/document/d/1MUuPqRZTtpUHvTAxBo5v9kVtyAsOZFoe/edit?usp=sharing&ouid=102076996564445191113&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oYlrJvVeso6trIDiwhadoR9SHnNFc3bK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
