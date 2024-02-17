@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Raj Singh</h1>
 <h3 align="center">Machine Learning | Data Science | Software Engineer ( iOS | Android | Web )</h3>
 
-- 🔭 I’m currently working on [MovieMatch](https://github.com/HemantRajSingh/MovieMatch)
+- 🔭 I’m currently working on [MovieMatch](https://github.com/HemantRajSingh/MovieMatch) [DocumentInsights](https://github.com/HemantRajSingh/DocumentInsights)
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
